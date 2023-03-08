@@ -1,4 +1,4 @@
-# Python_Projects_Fun
+# Simple Python Projects
 
 ## Project Set from GW Data Analytics Bootcamp
 
